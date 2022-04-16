@@ -13,3 +13,8 @@ within the app , without need of updating the whole app ( .apk file).
 
 The app is targeted to small kids and a trail and full version of the app are developed, 
 the source code of Trail version is available on my Github account.
+
+
+
+
+Copyrights - Navjot Singh Virk (https://navjot.mrvirk.com & https://mrvirk.com)
